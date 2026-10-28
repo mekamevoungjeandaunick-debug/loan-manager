@@ -1,0 +1,22 @@
+
+# Maven generated output
+target/
+
+# Java compiled files
+*.class
+
+# IntelliJ IDEA local configuration
+.idea/
+*.iml
+
+# VS Code local workspace settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local environment configuration and secrets
+.env
+.env.*
+!.env.example
